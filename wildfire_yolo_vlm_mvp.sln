@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "wildfire_yolo_vlm_mvp", "wildfire_yolo_vlm_mvp\wildfire_yolo_vlm_mvp.pyproj", "{D103AC4D-8353-4922-AF6C-FEACFC372EBB}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "wildfire_app", "wildfire_app\wildfire_app.pyproj", "{D103AC4D-8353-4922-AF6C-FEACFC372EBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
