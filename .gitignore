@@ -1,5 +1,22 @@
-.venv/
-.vs/
+# data
+data/dfire/
+data/dfire_sample/
+
+# runs / vis
 runs/
+vis/
+eval_images/
+
+# weights
 *.pt
+
+# cache
 __pycache__/
+*.pyc
+
+# venv
+venv/
+.venv/
+
+# vs
+.vs/
